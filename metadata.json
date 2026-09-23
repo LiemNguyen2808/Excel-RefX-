@@ -1,0 +1,8 @@
+{
+  "name": "Remix Excel RefX - Trích Xuất \u0026 Tham Chiếu Cột Tự Động",
+  "description": "Ứng dụng chuyên nghiệp tham chiếu và trích xuất dữ liệu từ các tệp Excel phức tạp theo danh sách mã chỉ định, tự động lọc và xuất báo cáo mới.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
